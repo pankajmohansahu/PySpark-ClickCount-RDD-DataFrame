@@ -1,0 +1,19 @@
+# Exclude submission zip and folder
+21f2001203_week-4_JAN_2026_IBD.zip
+21f2001203_week-4_JAN_2026_IBD/
+
+# Exclude cluster experiments
+cluster_exp/
+
+# Exclude video script
+VIDEO_SCRIPT.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
